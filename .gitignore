@@ -1,0 +1,16 @@
+# Archivos compilados
+dist/
+build/
+*.exe
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,4 @@
+# Esta aplicación solo usa la biblioteca estándar de Python
+# No se requieren dependencias adicionales
+#
+# Python 3.7+ es necesario
